@@ -13,5 +13,7 @@
   "lemonsqueezy_product_id": null,
   "webhook_url": null,
   "created_cycle": null,
-  "deployed_cycle": null
+  "deployed_cycle": null,
+  "seo_optimized": true,
+  "seo_optimized_at": "2026-04-21T17:47:00Z"
 }
