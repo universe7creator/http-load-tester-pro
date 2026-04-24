@@ -7,9 +7,9 @@
   "category": "Developer Tools",
   "features": [],
   "tech_stack": "Vercel + Node.js",
-  "status": "ready_to_deploy",
+  "status": "ready_for_payment",
   "vercel_url": "https://http-load-tester-pro.vercel.app",
-  "github_url": null,
+  "github_url": "https://github.com/universe7creator/http-load-tester-pro",
   "lemonsqueezy_product_id": null,
   "webhook_url": null,
   "created_cycle": null,
@@ -17,5 +17,6 @@
   "seo_optimized": true,
   "seo_optimized_at": "2026-04-21T17:47:00Z",
   "checkout_url": null,
-  "spec_version": "1.0"
+  "spec_version": "1.0",
+  "deployment_url": "https://http-load-tester-luk7syfwa-madnessqws-projects.vercel.app"
 }
